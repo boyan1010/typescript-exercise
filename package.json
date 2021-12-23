@@ -1,0 +1,11 @@
+{
+  "name": "typescript_exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "boyan <846184637@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
